@@ -13,7 +13,7 @@ url:                 https://bigmanbigmind.blog.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "따라쟁이 블로그"
+tagline:             "나의 블로그"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
