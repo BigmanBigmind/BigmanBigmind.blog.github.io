@@ -13,20 +13,19 @@ url:                 https://bigmanbigmind.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "나의 블로그"
+tagline:             "개발자? 엔지니어? 회사원?"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
-description:         >
-  따라쟁이의 샘플 블로그입니다.
+description:         
 
 # This should be the same author as first entry in `_data/authors.yml`
-author:
-  name:              xxxx
-  email:             xxxx@xxxx.com
+author:               
+  name:              Jinwoo Kim
+  email:             jwnaturalgoodman@gmail.com
 
 # Fallback image and color
-image:               /assets/img/main_left.JPG
+image:               
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
@@ -51,13 +50,13 @@ disqus: True
 disqus_shortname:    xxxx
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2020.12. by 따라쟁이'
+copyright:           '&copy; 2021.03. by BigMan'
 
 # Format of the permalinks
 permalink:           
 
 # Pagination configuration (used by the `blog` layout)
-paginate:            3
+paginate:            5
 paginate_path:       '/page-:num/'
 
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,

@@ -11,6 +11,7 @@ http://www.tipue.com/search
 .tipue_search_head{
      display: flex;
      align-items: center;
+ 
 }
 
 #tipue_search_input, #tipue_search_foot_boxes
