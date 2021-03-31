@@ -7,17 +7,6 @@ tags: kakao
 comments: true
 published: true
 ---
----
-title: "[mini project] 카카오톡 클론"
-layout: post
-subtitle: 재미삼아
-
-categories: Project
-tags: kakao
-comments: true
-
-published: true
----
 
 # 카카오톡 클론 코딩
 
@@ -38,6 +27,11 @@ C / C++ 만 다루다가 웹 프로그래밍의 기본적인 화면구성을 하
 다음 작품으로 돌아오겠습니다.
 
 
-[BigMan의 유사 카카오톡](https://bigmanbigmind.github.io/kokoa-2020/)
+
+
+**[BigMan의 유사 카카오톡](https://bigmanbigmind.github.io/kokoa-2020/)**
+
+
+
 
 감사합니다.
